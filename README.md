@@ -5,15 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sb20001" alt="sb20001" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/soumenbisaws5" target="blank"><img src="https://img.shields.io/twitter/follow/soumenbisaws5?logo=twitter&style=for-the-badge" alt="soumenbisaws5" /></a> </p>
+
 - 🌱 I’m currently learning **MERN Stack, Phyton, Data Science, Machine Learning**
 
 - 💬 Ask me about **hello, I'm Soumen Biswas, a CSE student with a passion for technology and development. Focused on learning and building real-world software solutions.**
 
 - 📫 How to reach me **sb2521302@gmail.com**
 
+- ⚡ Fun fact **I think I’m a funny and easygoing person who loves good vibes and great conversations.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/soumen_biswas_16bb3f2e124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/soumen_biswas_16bb3f2e124" height="30" width="40" /></a>
+<a href="https://twitter.com/soumenbisaws5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumenbisaws5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soumen-biswas-21915725a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumen-biswas-21915725a" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/29263786/soumen-biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/29263786/soumen-biswas" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/soumnebiswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/soumnebiswas" height="30" width="40" /></a>
